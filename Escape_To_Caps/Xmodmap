@@ -1,0 +1,3 @@
+remove Lock = Caps_Lock
+keysym Caps_Lock = 0xff1b
+keysym Escape = 0xffe5
